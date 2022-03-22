@@ -52,7 +52,6 @@ html,body{
   overflow: scroll;
   text-overflow: ellipsis;
   -ms-overflow-style: none;
-  scrollbar-width: none;
   border-bottom: 1px solid lightgray;
 }
 
@@ -93,4 +92,22 @@ html,body{
 	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 	height: 759px; /* title bar height + content height */
 	width: 40%;
+}
+html {
+	background-color: white;
+}
+
+.bsk-container {
+	margin-top: 15px;
+}
+
+.x-icon {
+	height: 1em;
+	width: 1em;
+	top: .125em;
+	position: relative;
+}
+
+.x-alt {
+    color: #777;
 }
