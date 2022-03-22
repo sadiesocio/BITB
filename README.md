@@ -23,6 +23,8 @@ The Windows-DarkMode-Delay folder makes use of jQuery's fadeIn() function to add
 
 ![Demo](https://github.com/mrd0x/BITB/blob/main/demo.gif)
 
+![Demo_2](https://github.com/sadiesocio/BITB/blob/main/BITB.gif)
+
 # Final Thoughts
 
 To get the most out of this you should determine the OS from the user agent and the color preference and display the appropriate template.
