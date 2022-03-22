@@ -23,7 +23,7 @@ The Windows-DarkMode-Delay folder makes use of jQuery's fadeIn() function to add
 
 ![Demo](https://github.com/mrd0x/BITB/blob/main/demo.gif)
 
-![Demo_2](https://github.com/sadiesocio/BITB/blob/main/BITB-demo.gif)
+![Demo_2](https://github.com/sadiesocio/BITB/blob/main/demo_2.gif)
 
 # Final Thoughts
 
