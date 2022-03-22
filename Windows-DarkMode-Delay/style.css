@@ -52,7 +52,6 @@ html,body{
   	overflow: scroll;
   	text-overflow: ellipsis;
   -ms-overflow-style: none;
-  scrollbar-width: none;
 }
 
 #url-bar::-webkit-scrollbar {
